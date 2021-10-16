@@ -151,6 +151,7 @@ Use the "Table of Contents" menu on the top-left corner to explore the list.
 - [vite-plugin-federation](https://github.com/originjs/vite-plugin-federation) - Support Module Federation, Inspired by Webpack Module Federation feature.
 - [vite-plugin-wasm-pack](https://github.com/nshen/vite-plugin-wasm-pack) - Integration with rust [wasm-pack](https://github.com/rustwasm/wasm-pack), the simple way.
 - [vite-plugin-comlink](https://github.com/mathe42/vite-plugin-comlink) - Use WebWorkers with the power of [Comlink](https://github.com/GoogleChromeLabs/comlink) to make them enjoyable.
+- [vite-plugin-swc-react](https://github.com/iheyunfei/vite-on-swc/tree/main/packages/react) - Vite react solution using SWC, supports HMR and automatic JSX runtime with speedy compiling.
 
 #### Loaders
 
